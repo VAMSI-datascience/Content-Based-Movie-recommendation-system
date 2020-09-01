@@ -1,4 +1,4 @@
-# Movie-Recommender-System-Based-on-content
+# Movie-Recommender-System-Based-on-content:
 
 Content Based Recommender System recommends items similar to the items user likes. How does it decide which item is most similar to the item user likes? Here we use the similarity scores.
 
