@@ -18,7 +18,7 @@ More about Cosine Similarity : [Understanding the Math behind Cosine Similarity]
 
 This is a hollywood movie recommender system built with Python. I've used IMDB 5000 Movie Dataset to built this.
 
-### Snapshot
+
 
 
 ### Sources of the datasets 
